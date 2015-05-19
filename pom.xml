@@ -4,7 +4,7 @@
     <name>json-io</name>
     <groupId>com.cedarsoftware</groupId>
     <artifactId>json-io</artifactId>
-    <packaging>jar</packaging>
+    <packaging>bundle</packaging>
     <version>3.1.1-SNAPSHOT</version>
     <description>Java JSON serialization</description>
     <url>https://github.com/jdereg/json-io</url>
